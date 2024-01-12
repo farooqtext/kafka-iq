@@ -40,6 +40,8 @@ Kafka Topics are divided into number of Partitions, which contains records in an
 
 # Offsets
 
-&nbsp;
+Offset is a sequence of ids given to messages as the arrival at a partition. Once the offset is assigned it will never be changed. The first message gets an offset 0. The next message gets an offset 1 and soon.
+
+![](https://firebasestorage.googleapis.com/v0/b/swimmio.appspot.com/o/repositories%2FZ2l0aHViJTNBJTNBa2Fma2EtaXElM0ElM0FmYXJvb3F0ZXh0%2F836b8168-e38e-45ea-9a29-5710c2e468e8.png?alt=media&token=4cffb4ea-1746-498c-bff5-d673de41134b)
 
 <SwmMeta version="3.0.0" repo-id="Z2l0aHViJTNBJTNBa2Fma2EtaXElM0ElM0FmYXJvb3F0ZXh0" repo-name="kafka-iq"><sup>Powered by [Swimm](https://app.swimm.io/)</sup></SwmMeta>
